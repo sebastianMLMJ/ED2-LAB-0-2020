@@ -1,8 +1,0 @@
-{
-"nombreProcesador":"i7-7700k",
-"litografia":"14nm",
-"cantidadNucleos":4,
-"subprocesos":8,
-"frecuenciabase":4,20ghz,
-"oc":true,
-}
