@@ -1,2 +1,2 @@
 # ED2-LAB-0-2020
-Se borraron los archivos .jso.text porque no correspondian ala extension.json
+Se borraron los archivos .json.text porque no correspondian ala extension.json
